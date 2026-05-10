@@ -1,0 +1,26 @@
+{
+  "name": "المسابقة البرمجية - جامعة الجزيرة",
+  "short_name": "المسابقة",
+  "description": "تطبيق مسابقة برمجية – الأسبوع الثقافي العلمي، جامعة الجزيرة",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj4KICA8cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgcng9IjMyIiBmaWxsPSIjMGExNjI4Ii8+CiAgPHJlY3QgeD0iOCIgeT0iOCIgd2lkdGg9IjE3NiIgaGVpZ2h0PSIxNzYiIHJ4PSIyOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhODRjIiBzdHJva2Utd2lkdGg9IjMiLz4KICA8dGV4dCB4PSI5NiIgeT0iODAiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjUyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzFlNmZjZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+Jmx0Oy8mZ3Q7PC90ZXh0PgogIDx0ZXh0IHg9Ijk2IiB5PSIxMzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjIyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2M5YTg0YyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+2YXYs9in2KjZgtipPC90ZXh0PgogIDx0ZXh0IHg9Ijk2IiB5PSIxNTgiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmaWxsPSIjOGZhZWNmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7Yp9mE2KzYstmK2LHYqTwvdGV4dD4KPC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjgwIiBmaWxsPSIjMGExNjI4Ii8+CiAgPHJlY3QgeD0iMTIiIHk9IjEyIiB3aWR0aD0iNDg4IiBoZWlnaHQ9IjQ4OCIgcng9IjcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNjOWE4NGMiIHN0cm9rZS13aWR0aD0iNiIvPgogIDx0ZXh0IHg9IjI1NiIgeT0iMjEwIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNDAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMWU2ZmNmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4mbHQ7LyZndDs8L3RleHQ+CiAgPHRleHQgeD0iMjU2IiB5PSIzNDAiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjYwIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2M5YTg0YyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+2YXYs9in2KjZgtipPC90ZXh0PgogIDx0ZXh0IHg9IjI1NiIgeT0iNDEwIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIzNiIgZmlsbD0iIzhmYWVjZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+2KzYp9mF2LnYqSDYp9mE2KzYstmK2LHYqTwvdGV4dD4KPC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
